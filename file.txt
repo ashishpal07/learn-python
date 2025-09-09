@@ -1,0 +1,2 @@
+file handling with python write
+file handling with python append mode
